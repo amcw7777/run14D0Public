@@ -10,7 +10,7 @@ RHIC year 2014 Run, with Heavy Flavor Tracker
 4. [Nuclear Modification Factor of D<sup>0</sup> Meson in Au+Au Collisions at 200GeV](http://www.star.bnl.gov/protected/heavy/xgn1992/QM15/GuannanX_DMesonDNP_v2.pdf), Guannan Xie, DNP2015,2015-10-31  
 
 ### Seminars:
-1. [Open heavy flavor measurements in Au+Au collisions at 200GeV using the STAR Heavy Flavor Tracker](http://www.star.bnl.gov/protected/heavy/mlomnitz/UIC_Seminar_19_10_2015/UICSeminar.pdf), Michael Lomnitz, UIC Seminar,2015-10-19  
+1. [Open heavy flavor measurements in Au+Au collisions at 200GeV using the STAR Heavy Flavor Tracker](https://drupal.star.bnl.gov/STAR/system/files/UICSeminar.pdf), Michael Lomnitz, UIC,2015-10-19  
 
 - - -
 ### Preliminary results:
