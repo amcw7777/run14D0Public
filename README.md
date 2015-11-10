@@ -16,8 +16,8 @@ RHIC year 2014 Run, with Heavy Flavor Tracker
 ![](plots/R_AA/run14_10_piRAA.png)
 ![](plots/R_AA/Raa_ALICE.png)
 
-![](plot/v_2/D0_v2.png)
-![](plot/v_2/D0_KS_v2.png)
+![](plots/v_2/D0_v2.png)
+![](plots/v_2/D0_KS_v2.png)
 
 ![](plots/R_AA/D0_tamu.png)
 ![](plots/v_2/v2_TAMU_diff.png)
