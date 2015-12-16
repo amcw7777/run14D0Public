@@ -29,3 +29,5 @@ RHIC year 2014 Run, with Heavy Flavor Tracker
 
 ![](plots/R_AA/D0_tamu_suba_duke.png)
 ![](plots/v_2/v2_TAMU_Sub.png)
+
+![](plots/D_HQ_1_with_shade.png)
