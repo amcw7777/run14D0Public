@@ -9,6 +9,11 @@ RHIC year 2014 Run, with Heavy Flavor Tracker
 3. [Overview of recent results from the STAR experiment](https://indico.cern.ch/event/355454/session/45/contribution/60/attachments/1162854/1678473/2015-10-01-QM15-STAR-Overview-v5.pdf), Mustafa Mustafa, QM15,2015-10-01  
 4. [Nuclear Modification Factor of D<sup>0</sup> Meson in Au+Au Collisions at 200GeV](https://drupal.star.bnl.gov/STAR/system/files/GuannanX_DMesonDNP_v2.pdf), Guannan Xie, DNP2015,2015-10-31  
 
+### Proceedings:
+1. Nuclear Modification Factor of D<sup>0</sup> Meson in Au+Au Collisions at 200 GeV, Guannan Xie (for the STAR Collaboration), [arXiv:1601.00695](http://arxiv.org/abs/1601.00695), QM15 Proceedings, submitted to NPA
+2. Measurement of D-meson azimuthal anisotropy in Au+Au 200 GeV collisions at RHIC, Michael Lomnitz (for the STAR Collaboration), [arXiv:1601.00743](http://arxiv.org/abs/1601.00743), QM15 Proceedings, submitted to NPA
+3. Overview of recent results from the STAR experiment, Mustafa Mustafa (for the STAR Collaboration), [arXiv:1512.09329](http://arxiv.org/abs/1512.09329), QM15 Proceedings, submitted to NPA
+
 ### Seminars:
 1. [Open heavy flavor measurements in Au+Au collisions at 200GeV using the STAR Heavy Flavor Tracker](https://drupal.star.bnl.gov/STAR/system/files/UICSeminar.pdf), Michael Lomnitz, UIC,2015-10-19  
 
